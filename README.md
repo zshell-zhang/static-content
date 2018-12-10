@@ -10,6 +10,10 @@
   - child dirs ...
 - blog
   - child dirs ...
+- life
+  - thought
+  - books
+  - movies
   
 ## **link rules**
 ```
